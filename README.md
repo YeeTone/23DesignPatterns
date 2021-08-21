@@ -12,40 +12,40 @@
 主要分为三种类型：**创建型模式，结构型模式，行为型模式**。    
     
 ### I. 创建型模式： 
-i. 工厂模式（Factory Pattern）     
-ii. 抽象工厂模式（Abstract Factory Pattern）    
-iii. 单例模式（Singleton Pattern）    
-iv. 建造者模式（Builder Pattern）   
-v. 原型模式（Prototype Pattern）    
+1. 工厂模式（Factory Pattern）     
+2. 抽象工厂模式（Abstract Factory Pattern）    
+3. 单例模式（Singleton Pattern）    
+4. 建造者模式（Builder Pattern）   
+5. 原型模式（Prototype Pattern）    
     
 ### II. 结构型模式：    
-i. 适配器模式（Adapter Pattern）    
-ii. 桥接模式（Bridge Pattern）     
-iii. 过滤器模式（Filter Pattern）    
-iv. 组合模式（Composite Pattern）    
-v. 装饰器模式（Decorator Pattern）     
-vi. 外观模式（Facade Pattern）     
-vii. 享元模式（Flyweight Pattern）     
-viii. 代理模式（Proxy Pattern）    
+1. 适配器模式（Adapter Pattern）    
+2. 桥接模式（Bridge Pattern）     3
+3. 过滤器模式（Filter Pattern）    
+4. 组合模式（Composite Pattern）    
+5. 装饰器模式（Decorator Pattern）     
+6. 外观模式（Facade Pattern）     
+7. 享元模式（Flyweight Pattern）     
+8. 代理模式（Proxy Pattern）    
     
 ### III. 行为型模式：     
-i. 责任链模式（Chain of Responsibility Pattern）   
-ii. 命令模式（Command Pattern）    
-iii. 解释器模式（Interpreter Pattern）     
-iv. 迭代器模式（Iterator Pattern）    
-v. 中介者模式（Mediator Pattern）    
-vi. 备忘录模式（Memento Pattern）    
-vii. 观察者模式（Observer Pattern）    
-ix. 状态模式（State Pattern）    
-x. 空对象模式（Null Object Pattern）    
-xi. 策略模式（Strategy Pattern）    
-xii. 模板模式（Template Pattern）    
-xiii. 访问者模式（Visitor Pattern）    
+1. 责任链模式（Chain of Responsibility Pattern）   
+2. 命令模式（Command Pattern）    
+3. 解释器模式（Interpreter Pattern）     
+4. 迭代器模式（Iterator Pattern）    
+5. 中介者模式（Mediator Pattern）    
+6. 备忘录模式（Memento Pattern）    
+7. 观察者模式（Observer Pattern）    
+8. 状态模式（State Pattern）    
+9. 空对象模式（Null Object Pattern）    
+10. 策略模式（Strategy Pattern）    
+11. 模板模式（Template Pattern）    
+12. 访问者模式（Visitor Pattern）    
 
 ## 4. 三大设计模式的侧重点分别是什么？
-创建型模式：侧重于解决实例对象的获取问题，将实例化对象的过程进行抽象处理，从而实现更加灵活地获取对象。     
-结构性模式：侧重于解决对象的组成和对象之间的调用依赖关系，从而实现各种类之间的组装与交互。    
-行为型模式：侧重于解决对象和类的行为模式，以及不同类之间的通讯关系。    
+1. 创建型模式：侧重于解决实例对象的获取问题，将实例化对象的过程进行抽象处理，从而实现更加灵活地获取对象。（核心：对象从哪里来？）     
+2. 结构性模式：侧重于解决对象的组成和对象之间的调用依赖关系，从而实现各种类之间的组装与交互。（核心：对象要怎么组装？）    
+3. 行为型模式：侧重于解决对象和类的行为模式，以及不同类之间的通讯关系。（核心：对象要怎么使用？）    
 
 ## 5. 设计模式的六大原则是什么？   
 六大原则简称**SOLID**
