@@ -20,7 +20,7 @@
     
 ### II. 结构型模式：    
 1. 适配器模式（Adapter Pattern）    
-2. 桥接模式（Bridge Pattern）     3
+2. 桥接模式（Bridge Pattern）     
 3. 过滤器模式（Filter Pattern）    
 4. 组合模式（Composite Pattern）    
 5. 装饰器模式（Decorator Pattern）     
