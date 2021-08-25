@@ -1,4 +1,6 @@
 # 原型模式的标准实现@Java
+![image](https://user-images.githubusercontent.com/64548919/130764537-2fe2e14f-b16d-4114-afde-495788cbaf74.png)
+
 ## 1. 为什么要学习原型模式？
 有时候，通过new关键字来实现**相同或相似**对象的创建会极其耗费资源，如：     
 1. 从数据库拿取相同信息的对象；     
