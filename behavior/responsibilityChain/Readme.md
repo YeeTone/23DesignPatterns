@@ -1,5 +1,5 @@
 # 责任链模式的标准实现@Java
-![image](https://user-images.githubusercontent.com/64548919/131311630-563c2e3b-3792-4685-bb70-ad4dda0a6700.png)
+![image](https://user-images.githubusercontent.com/64548919/131317707-40ee2278-39db-4bae-8bbf-ff486b819353.png)
 ## 1. 为什么要学习责任链模式？
 有时候，对于一套连贯的处理流程来说，       
 我们并不希望期间涉及的所有对象都像门面模式那样全部堆在一块，使得步骤中的每一个流程都能对任一流程都可以访问；         
