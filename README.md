@@ -1,4 +1,7 @@
 # 23种设计模式的标准实现@Java@Updating
+本仓库的设计和文档书写参考了以下两个教程：        
+1. 菜鸟教程：https://www.runoob.com/design-pattern/design-pattern-tutorial.html      
+2. C语言中文网：http://c.biancheng.net/view/1317.html         
 在开始阅读代码之前，您有必要先阅读以下这几个问题：    
 ## 1. 设计模式的基础原则是什么？
 1. 编程面向接口，而非面向实现；    
