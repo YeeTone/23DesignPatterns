@@ -1,4 +1,4 @@
-# 空对象模式的标准实现@Java
+# 空对象做空行为，不再惧怕空指针 --空对象模式的标准实现@Java
 ![image](https://user-images.githubusercontent.com/64548919/131624782-81cfa018-dbe9-45b9-bda4-8a59baeba2d7.png)
 ## 1. 为什么要学习空对象模式？
 null，是一个让Java初学者十分头痛，让Java老手既爱又恨的关键字。       
