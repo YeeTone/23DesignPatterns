@@ -1,4 +1,4 @@
-# 观察者模式的标准实现@Java
+# 一有变化就立即告诉我！ --观察者模式的标准实现@Java
 ![image](https://user-images.githubusercontent.com/64548919/131465253-f2c9e857-1916-4956-b2b1-7a0dc892c5bd.png)
 
 ## 1. 为什么要学习观察者模式？
