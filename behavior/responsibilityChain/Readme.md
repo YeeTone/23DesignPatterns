@@ -1,4 +1,4 @@
-# 责任链模式的标准实现@Java
+# 各人自扫门前雪，莫管他人瓦上霜 --责任链模式的标准实现@Java
 ![image](https://user-images.githubusercontent.com/64548919/131317707-40ee2278-39db-4bae-8bbf-ff486b819353.png)
 ## 1. 为什么要学习责任链模式？
 有时候，对于一套连贯的处理流程来说，       
