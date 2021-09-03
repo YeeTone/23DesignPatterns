@@ -1,4 +1,4 @@
-# 原型模式的标准实现@Java
+# 拔一根猴毛，吹出千万个 --原型模式的标准实现@Java
 ![image](https://user-images.githubusercontent.com/64548919/130764537-2fe2e14f-b16d-4114-afde-495788cbaf74.png)
 
 ## 1. 为什么要学习原型模式？
