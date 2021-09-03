@@ -1,4 +1,4 @@
-# 中介者模式的标准实现@Java
+# 联系方式双互通，中间操作两屏蔽 --中介者模式的标准实现@Java
 ![image](https://user-images.githubusercontent.com/64548919/131456476-bcde1900-5a78-4fbb-9d6a-5bcbe2e46bf3.png)
 
 ## 1. 为什么要学习中介者模式？
